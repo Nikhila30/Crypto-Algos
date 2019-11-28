@@ -4,7 +4,8 @@ import time
 import pyDes
 
 client_address = "10.0.0.1"
-Key_C="raghuram"
+Key_C="abcd"
+
 Key_C_TGS=""
 server_id="GMT-Time-Server"
 
